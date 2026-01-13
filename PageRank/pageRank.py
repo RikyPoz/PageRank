@@ -20,6 +20,7 @@ def build_sparse_link_matrix(filename):
     links = []
     out_degree = {}
     
+    # 1) READING THE DATASET FILE
     print(f"Reading file: {filename}...")
     try:
         with open(filename, 'r') as file:
@@ -46,7 +47,7 @@ def build_sparse_link_matrix(filename):
         print(f"Error reading file: {e}")
         return None, 0, None
 
-    # --- SPARSE MATRIX CONSTRUCTION ---
+    # --- 2) SPARSE MATRIX CONSTRUCTION ---
     # We use the COO (Coordinate) format logic initially: separate lists for Data, Rows, Cols
     data = []
     rows = [] # Target Node (i)
@@ -85,7 +86,7 @@ def build_sparse_link_matrix(filename):
     
     return A_sparse, N, dangling_indices
 
-def calculate_pagerank_sparse(A_sparse, N, dangling_indices, m, max_iter=200, tol=1e-7):
+def calculate_pagerank(A_sparse, N, dangling_indices, m, max_iter=200, tol=1e-7):
     """
     Computes PageRank using the Power Method with Sparse Optimizations.
     
