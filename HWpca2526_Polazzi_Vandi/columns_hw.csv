@@ -1,0 +1,151 @@
+original,short,data_type
+I enjoy listening to music.,Music,int
+I prefer.,Slow songs or fast songs,int
+"Dance, Disco, Funk",Dance,int
+Folk music,Folk,int
+Country,Country,int
+Classical,Classical music,int
+Musicals,Musical,int
+Pop,Pop,int
+Rock,Rock,int
+"Metal, Hard rock",Metal or Hardrock,int
+Punk,Punk,int
+"Hip hop, Rap","Hiphop, Rap",int
+"Reggae, Ska","Reggae, Ska",int
+"Swing, Jazz","Swing, Jazz",int
+Rock n Roll,Rock n roll,int
+Alternative music,Alternative,int
+Latin,Latino,int
+"Techno, Trance","Techno, Trance",int
+Opera,Opera,int
+I really enjoy watching movies.,Movies,int
+Horror movies,Horror,int
+Thriller movies,Thriller,int
+Comedies,Comedy,int
+Romantic movies,Romantic,int
+Sci-fi movies,Sci-fi,int
+War movies,War,int
+Tales,Fantasy/Fairy tales,int
+Cartoons,Animated,int
+Documentaries,Documentary,int
+Western movies,Western,int
+Action movies,Action,int
+History,History,int
+Psychology,Psychology,int
+Politics,Politics,int
+Mathematics,Mathematics,int
+Physics,Physics,int
+Internet,Internet,int
+"PC Software, Hardware",PC,int
+"Economy, Management",Economy Management,int
+Biology,Biology,int
+Chemistry,Chemistry,int
+Poetry reading,Reading,int
+Geography,Geography,int
+Foreign languages,Foreign languages,int
+Medicine,Medicine,int
+Law,Law,int
+Cars,Cars,int
+Art,Art exhibitions,int
+Religion,Religion,int
+Outdoor activities,"Countryside, outdoors",int
+Dancing,Dancing,int
+Playing musical instruments,Musical instruments,int
+Poetry writing,Writing,int
+Sport and leisure activities,Passive sport,int
+Sport at competitive level,Active sport,int
+Gardening,Gardening,int
+Celebrity lifestyle,Celebrities,int
+Shopping,Shopping,int
+Science and technology,Science and technology,int
+Theatre,Theatre,int
+Socializing,Fun with friends,int
+Adrenaline sports,Adrenaline sports,int
+Pets,Pets,int
+Flying,Flying,int
+"Thunder, lightning",Storm,int
+Darkness,Darkness,int
+Heights,Heights,int
+Spiders,Spiders,int
+Snakes,Snakes,int
+"Rats, mice",Rats,int
+Ageing,Ageing,int
+Dangerous dogs,Dangerous dogs,int
+Public speaking,Fear of public speaking,int
+Smoking habits,Smoking,category
+Drinking,Alcohol,category
+I live a very healthy lifestyle.,Healthy eating,int
+I take notice of what goes on around me.,Daily events,int
+I try to do tasks as soon as possible and not leave them until last minute.,Prioritising workload,int
+I always make a list so I don't forget anything.,Writing notes,int
+I often study or work even in my spare time.,Workaholism,int
+I look at things from all different angles before I go ahead.,Thinking ahead,int
+I believe that bad people will suffer one day and good people will be rewarded.,Final judgement,int
+I am reliable at work and always complete all tasks given to me.,Reliability,int
+I always keep my promises.,Keeping promises,int
+I can fall for someone very quickly and then completely lose interest.,Loss of interest,int
+I would rather have lots of friends than lots of money.,Friends versus money,int
+I always try to be the funniest one.,Funniness,int
+I can be two faced sometimes.,Fake,int
+I damaged things in the past when angry.,Criminal damage,int
+I take my time to make decisions.,Decision making,int
+I always try to vote in elections.,Elections,int
+I often think about and regret the decisions I make.,Self-criticism,int
+I can tell if people listen to me or not when I talk to them.,Judgment calls,int
+I am a hypochondriac.,Hypochondria,int
+I am emphatetic person.,Empathy,int
+I eat because I have to. I don't enjoy food and eat as fast as I can.,Eating to survive,int
+I try to give as much as I can to other people at Christmas.,Giving,int
+I don't like seeing animals suffering.,Compassion to animals,int
+I look after things I have borrowed from others.,Borrowed stuff,int
+I feel lonely in life.,Loneliness,int
+I used to cheat at school.,Cheating in school,int
+I worry about my health.,Health,int
+I wish I could change the past because of the things I have done.,Changing the past,int
+I believe in God.,God,int
+I always have good dreams.,Dreams,int
+I always give to charity.,Charity,int
+I have lots of friends.,Number of friends,int
+Timekeeping.,Punctuality,category
+Do you lie to others?,Lying,category
+I am very patient.,Waiting,int
+I can quickly adapt to a new environment.,New environment,int
+My moods change quickly.,Mood swings,int
+I am well mannered and I look after my appearance.,Appearence and gestures,int
+I enjoy meeting new people.,Socializing,int
+I always let other people know about my achievements.,Achievements,int
+I think carefully before answering any important letters.,Responding to a serious letter,int
+I enjoy childrens' company.,Children,int
+I am not afraid to give my opinion if I feel strongly about something.,Assertiveness,int
+I can get angry very easily.,Getting angry,int
+I always make sure I connect with the right people.,Knowing the right people,int
+I have to be well prepared before public speaking.,Public speaking,int
+I will find a fault in myself if people don't like me.,Unpopularity,int
+I cry when I feel down or things don't go the right way.,Life struggles,int
+I am 100% happy with my life.,Happiness in life,int
+I am always full of life and energy.,Energy levels,int
+"I prefer big dangerous dogs to smaller, calmer dogs.",Small - big dogs,int
+I believe all my personality traits are positive.,Personality,int
+If I find something the doesn't belong to me I will hand it in.,Finding lost valuables,int
+I find it very difficult to get up in the morning.,Getting up,int
+I have many different hobbies and interests.,Interests or hobbies,int
+I always listen to my parents' advice.,Parents' advice,int
+I enjoy taking part in surveys.,Questionnaires or polls,int
+How much time do you spend online?,Internet usage,category
+I save all the money I can.,Finances,int
+I enjoy going to large shopping centres.,Shopping centres,int
+I prefer branded clothing to non branded.,Branded clothing,int
+I spend a lot of money on  partying and socializing.,Entertainment spending,int
+I spend a lot of money on my appearance.,Spending on looks,int
+I spend a lot of money on gadgets.,Spending on gadgets,int
+"I will happily pay more money for good, quality or healthy food.",Spending on healthy eating,int
+Age,Age,int
+Height,Height,int
+Weight,Weight,int
+How many siblings do you have?,Number of siblings,int
+Gender,Gender,category
+I am (hand),Hand,category
+Highest education achieved,Education,category
+I am the only child,Only child,category
+I spent most of my childhood in a,Home Town Type,category
+I lived most of my childhood in a,Home Type,category
